@@ -8,9 +8,5 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
 测试免密登录
+测试免密码登录222
